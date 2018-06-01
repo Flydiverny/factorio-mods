@@ -10,15 +10,15 @@
     },
     {
       "name": "aai-programmable-structures",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-programmable-vehicles",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-signals",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-vehicles-hauler",
@@ -30,11 +30,11 @@
     },
     {
       "name": "aai-vehicles-warden",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "aai-zones",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "AfraidOfTheDark",
@@ -65,24 +65,12 @@
       "enabled": true
     },
     {
-      "name": "angelscomponents",
-      "enabled": false
-    },
-    {
-      "name": "angelsexploration",
-      "enabled": false
-    },
-    {
       "name": "angelsindustries",
       "enabled": true
     },
     {
       "name": "angelsinfiniteores",
       "enabled": true
-    },
-    {
-      "name": "angelslogistics",
-      "enabled": false
     },
     {
       "name": "angelspetrochem",
@@ -170,22 +158,14 @@
     },
     {
       "name": "bobwarfare",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Bottleneck",
       "enabled": true
     },
     {
-      "name": "BottleneckLogistics",
-      "enabled": false
-    },
-    {
       "name": "bullet-trails",
-      "enabled": true
-    },
-    {
-      "name": "BurnerLeech A15 Fix",
       "enabled": false
     },
     {
@@ -205,20 +185,8 @@
       "enabled": true
     },
     {
-      "name": "data-raw-prototypes",
-      "enabled": false
-    },
-    {
-      "name": "detached-gun-sounds",
-      "enabled": false
-    },
-    {
       "name": "Enhanced_Map_Colors",
       "enabled": true
-    },
-    {
-      "name": "EquipmentHotkeys",
-      "enabled": false
     },
     {
       "name": "EquipmentHotkeys_fixed",
@@ -242,7 +210,7 @@
     },
     {
       "name": "Foreman",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ItemUpgrades",
@@ -250,23 +218,15 @@
     },
     {
       "name": "LoaderRedux",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "LogisticTrainNetwork",
       "enabled": true
     },
     {
-      "name": "long-reach-research",
-      "enabled": false
-    },
-    {
       "name": "long-reach-research-upgrade",
       "enabled": true
-    },
-    {
-      "name": "More_Floors",
-      "enabled": false
     },
     {
       "name": "Nanobots",
@@ -274,10 +234,6 @@
     },
     {
       "name": "nixie-tubes",
-      "enabled": true
-    },
-    {
-      "name": "off-grid-effects",
       "enabled": false
     },
     {
@@ -294,7 +250,7 @@
     },
     {
       "name": "recursive-blueprints",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "rso-mod",
@@ -310,7 +266,7 @@
     },
     {
       "name": "signalstrings",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "textplates",
@@ -329,16 +285,8 @@
       "enabled": true
     },
     {
-      "name": "UPS-up",
-      "enabled": false
-    },
-    {
       "name": "VehicleSnap",
       "enabled": true
-    },
-    {
-      "name": "water-fix",
-      "enabled": false
     },
     {
       "name": "what-is-it-really-used-for",
