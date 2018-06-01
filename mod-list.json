@@ -9,32 +9,12 @@
       "enabled": true
     },
     {
-      "name": "aai-programmable-structures",
-      "enabled": false
-    },
-    {
-      "name": "aai-programmable-vehicles",
-      "enabled": false
-    },
-    {
-      "name": "aai-signals",
-      "enabled": false
-    },
-    {
       "name": "aai-vehicles-hauler",
       "enabled": true
     },
     {
       "name": "aai-vehicles-miner",
       "enabled": true
-    },
-    {
-      "name": "aai-vehicles-warden",
-      "enabled": false
-    },
-    {
-      "name": "aai-zones",
-      "enabled": false
     },
     {
       "name": "AfraidOfTheDark",
@@ -89,20 +69,12 @@
       "enabled": true
     },
     {
-      "name": "autofill",
-      "enabled": false
-    },
-    {
       "name": "bobassembly",
       "enabled": true
     },
     {
       "name": "bobelectronics",
       "enabled": true
-    },
-    {
-      "name": "bobenemies",
-      "enabled": false
     },
     {
       "name": "bobgreenhouse",
@@ -157,16 +129,8 @@
       "enabled": true
     },
     {
-      "name": "bobwarfare",
-      "enabled": false
-    },
-    {
       "name": "Bottleneck",
       "enabled": true
-    },
-    {
-      "name": "bullet-trails",
-      "enabled": false
     },
     {
       "name": "BurnerLeech A16 Fix",
@@ -201,24 +165,12 @@
       "enabled": true
     },
     {
-      "name": "FactorioMaps",
-      "enabled": false
-    },
-    {
       "name": "FARL",
       "enabled": true
     },
     {
-      "name": "Foreman",
-      "enabled": false
-    },
-    {
       "name": "ItemUpgrades",
       "enabled": true
-    },
-    {
-      "name": "LoaderRedux",
-      "enabled": false
     },
     {
       "name": "LogisticTrainNetwork",
@@ -233,24 +185,12 @@
       "enabled": true
     },
     {
-      "name": "nixie-tubes",
-      "enabled": false
-    },
-    {
-      "name": "only-smelting",
-      "enabled": false
-    },
-    {
       "name": "PickerExtended",
       "enabled": true
     },
     {
       "name": "pushbutton",
       "enabled": true
-    },
-    {
-      "name": "recursive-blueprints",
-      "enabled": false
     },
     {
       "name": "rso-mod",
@@ -263,10 +203,6 @@
     {
       "name": "ShinyBobGFX",
       "enabled": true
-    },
-    {
-      "name": "signalstrings",
-      "enabled": false
     },
     {
       "name": "textplates",
