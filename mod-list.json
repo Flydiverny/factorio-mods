@@ -5,35 +5,7 @@
       "enabled": true
     },
     {
-      "name": "aai-industry",
-      "enabled": true
-    },
-    {
-      "name": "aai-vehicles-hauler",
-      "enabled": true
-    },
-    {
-      "name": "aai-vehicles-miner",
-      "enabled": true
-    },
-    {
-      "name": "AfraidOfTheDark",
-      "enabled": true
-    },
-    {
-      "name": "alien-biomes",
-      "enabled": true
-    },
-    {
-      "name": "angelsaddons-oresilos",
-      "enabled": true
-    },
-    {
-      "name": "angelsaddons-petrotrain",
-      "enabled": true
-    },
-    {
-      "name": "angelsaddons-pressuretanks",
+      "name": "A Sea Block Config",
       "enabled": true
     },
     {
@@ -42,14 +14,6 @@
     },
     {
       "name": "angelsbioprocessing",
-      "enabled": true
-    },
-    {
-      "name": "angelsindustries",
-      "enabled": true
-    },
-    {
-      "name": "angelsinfiniteores",
       "enabled": true
     },
     {
@@ -65,10 +29,6 @@
       "enabled": true
     },
     {
-      "name": "AutoDeconstruct",
-      "enabled": true
-    },
-    {
       "name": "bobassembly",
       "enabled": true
     },
@@ -77,7 +37,7 @@
       "enabled": true
     },
     {
-      "name": "bobgreenhouse",
+      "name": "bobenemies",
       "enabled": true
     },
     {
@@ -97,15 +57,7 @@
       "enabled": true
     },
     {
-      "name": "bobmods_gfxtweak",
-      "enabled": true
-    },
-    {
       "name": "bobmodules",
-      "enabled": true
-    },
-    {
-      "name": "bobores",
       "enabled": true
     },
     {
@@ -125,147 +77,47 @@
       "enabled": true
     },
     {
-      "name": "bobvehicleequipment",
+      "name": "bobwarfare",
       "enabled": true
     },
     {
-      "name": "Bottleneck",
+      "name": "CircuitProcessing",
       "enabled": true
     },
     {
-      "name": "BurnerLeech A16 Fix",
+      "name": "Explosive Excavation",
       "enabled": true
     },
     {
-      "name": "Clowns-AngelBob-Nuclear",
+      "name": "FNEI",
       "enabled": true
     },
     {
-      "name": "Clowns-Extended-Minerals",
+      "name": "KS_Power",
       "enabled": true
     },
     {
-      "name": "Clowns-Locale",
+      "name": "LandfillPainting",
       "enabled": true
     },
     {
-      "name": "Clowns-Nuclear",
+      "name": "Nuclear Fuel",
       "enabled": true
     },
     {
-      "name": "Clowns-Processing",
+      "name": "ScienceCostTweakerM",
       "enabled": true
     },
     {
-      "name": "Clowns-Science",
+      "name": "SeaBlock",
       "enabled": true
     },
     {
-      "name": "color-coding",
+      "name": "SeaBlockMetaPack",
       "enabled": true
     },
     {
-      "name": "CopyAssemblerPipeDirection",
-      "enabled": true
-    },
-    {
-      "name": "Crafting_Speed_Research",
-      "enabled": true
-    },
-    {
-      "name": "DeadlockLoaders",
-      "enabled": true
-    },
-    {
-      "name": "Enhanced_Map_Colors",
-      "enabled": true
-    },
-    {
-      "name": "EquipmentHotkeys_fixed",
-      "enabled": true
-    },
-    {
-      "name": "EvoGUI",
-      "enabled": true
-    },
-    {
-      "name": "Extra_Floors",
-      "enabled": true
-    },
-    {
-      "name": "FARL",
-      "enabled": true
-    },
-    {
-      "name": "ItemUpgrades",
-      "enabled": true
-    },
-    {
-      "name": "LogisticTrainNetwork",
-      "enabled": true
-    },
-    {
-      "name": "long-reach-research-upgrade",
-      "enabled": true
-    },
-    {
-      "name": "Nanobots",
-      "enabled": true
-    },
-    {
-      "name": "PickerExtended",
-      "enabled": true
-    },
-    {
-      "name": "pushbutton",
-      "enabled": true
-    },
-    {
-      "name": "rso-mod",
-      "enabled": true
-    },
-    {
-      "name": "ShinyAngelGFX",
-      "enabled": true
-    },
-    {
-      "name": "ShinyBobGFX",
-      "enabled": true
-    },
-    {
-      "name": "ShinyIcons",
-      "enabled": true
-    },
-    {
-      "name": "textplates",
-      "enabled": true
-    },
-    {
-      "name": "TheFatController",
-      "enabled": true
-    },
-    {
-      "name": "tree_collision",
-      "enabled": true
-    },
-    {
-      "name": "upgrade-planner",
-      "enabled": true
-    },
-    {
-      "name": "VehicleSnap",
-      "enabled": true
-    },
-    {
-      "name": "what-is-it-really-used-for",
-      "enabled": true
-    },
-    {
-      "name": "xcompat_bobvehicleequipment",
-      "enabled": true
-    },
-    {
-      "name": "YARM",
+      "name": "SpaceMod",
       "enabled": true
     }
   ]
