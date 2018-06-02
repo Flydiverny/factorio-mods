@@ -137,6 +137,30 @@
       "enabled": true
     },
     {
+      "name": "Clowns-AngelBob-Nuclear",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Extended-Minerals",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Locale",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Nuclear",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Processing",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Science",
+      "enabled": true
+    },
+    {
       "name": "color-coding",
       "enabled": true
     },
@@ -146,6 +170,10 @@
     },
     {
       "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockLoaders",
       "enabled": true
     },
     {
@@ -202,6 +230,10 @@
     },
     {
       "name": "ShinyBobGFX",
+      "enabled": true
+    },
+    {
+      "name": "ShinyIcons",
       "enabled": true
     },
     {
